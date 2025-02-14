@@ -73,6 +73,7 @@ main {
     font-weight: bold;
     color: black;
     padding: 15px;
+    width: 250px;
 }
 
 button:not([id*="0"]):not([id*="1"]):not([id*="2"]):not([id*="3"]):not([id*="4"]):not([id*="5"]):not([id*="6"]):not([id*="7"]):not([id*="8"]):not([id*="9"]):not([id*="="]):not([id*="C"]) {
@@ -115,6 +116,7 @@ button[id="="] {
 
     #output {
         width: 60%;
+        margin-top: 10em;
     }
 }
 /*
